@@ -88,7 +88,7 @@ function processMessage(msg) {
 
 function processServerAction() {
   // Implement server-side action processing
-}
+} gi
 
 server.listen(3001, () => {
   console.log("Server is running on port 3001");
